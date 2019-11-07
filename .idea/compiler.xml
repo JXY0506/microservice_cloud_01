@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice_cloud_02_api" />
+        <module name="microservice_cloud_03_provider_product_8001" />
+        <module name="microservice_cloud_04_customer_product_8080" />
+        <module name="microservice_cloud_05_eureka_6001" />
+        <module name="microservice_cloud_06_eureka_6002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice_cloud_01" target="1.7" />
+      <module name="microservice_cloud_02_api" target="1.7" />
+      <module name="microservice_cloud_03_provider_product_8001" target="1.7" />
+      <module name="microservice_cloud_04_customer_product_8080" target="1.7" />
+      <module name="microservice_cloud_05_eureka_6001" target="1.7" />
+      <module name="microservice_cloud_06_eureka_6002" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

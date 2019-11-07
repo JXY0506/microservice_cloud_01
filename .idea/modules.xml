@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_01.iml" filepath="$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_02_api/microservice_cloud_02_api.iml" filepath="$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_02_api/microservice_cloud_02_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_03_provider_product_8001/microservice_cloud_03_provider_product_8001.iml" filepath="$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_03_provider_product_8001/microservice_cloud_03_provider_product_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_04_customer_product_8080/microservice_cloud_04_customer_product_8080.iml" filepath="$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_04_customer_product_8080/microservice_cloud_04_customer_product_8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_05_eureka_6001/microservice_cloud_05_eureka_6001.iml" filepath="$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_05_eureka_6001/microservice_cloud_05_eureka_6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_06_eureka_6002/microservice_cloud_06_eureka_6002.iml" filepath="$PROJECT_DIR$/microservice_cloud_01/microservice_cloud_06_eureka_6002/microservice_cloud_06_eureka_6002.iml" />
+    </modules>
+  </component>
+</project>
